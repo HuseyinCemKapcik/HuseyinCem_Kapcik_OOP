@@ -1,4 +1,10 @@
-﻿
+﻿// ===== PART A =====
+// A1: 5
+// A2: Hurt
+// A3: 4
+// A4: 14
+
+
 // ===== B1 =====
 {
     void PrintDamage(int baseDamage, int armor, int level)
